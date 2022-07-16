@@ -6,7 +6,7 @@
 <h2 align="center">You can find my work here 💪</h2>
 <p align="center">
   <a href="https://www.frontendmentor.io/profile/LazyDuckling"><img src="https://img.shields.io/badge/Frontend%20Mentor-blue?style=for-the-badge&logo=frontendmentor" alt="Frontend Mentor Logo"></a>
-  <a href="https://github.com/LazyDuckling?tab=repositories"><img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github" alt="GiHhub Logo"></a>
+  <a href="https://github.com/LazyDuckling?tab=repositories"><img src="https://img.shields.io/badge/Github Repositories-black?style=for-the-badge&logo=github" alt="GiHhub Logo"></a>
 </p>
 
 <h2 align="center">What I'm interested in 👀 </h2>
