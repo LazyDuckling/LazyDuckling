@@ -6,7 +6,7 @@
 <h2 align="center">You can find my work here 💪</h2>
 <p align="center">
   <a href="https://www.frontendmentor.io/profile/LazyDuckling">
-    <img src="https://img.shields.io/badge/Frontend%20Mentor-blue?style=for-the-badge&logo=frontendmentor">
+    <img src="https://img.shields.io/badge/Frontend%20Mentor-blue?style=for-the-badge&logo=frontendmentor" alt="Frontend Mentor Logo">
   </a>
 </p>
 
