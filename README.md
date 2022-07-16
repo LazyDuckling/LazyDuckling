@@ -2,7 +2,6 @@
 <p align="center">
   Welcome to my GitHub profile! I am an aspiring front end web developer (maybe full stack eventually?) currently getting more comfortable building websites with CSS Grid through Frontend Mentor challenges. I'll be getting ready to learn Sass and JavaScript soon!
 </p>
-<br>
 
 <h2 align="center">You can find my work here 💪</h2>
 <p align="center">
@@ -10,7 +9,6 @@
     <img src="https://img.shields.io/badge/Frontend%20Mentor-blue?style=for-the-badge&logo=frontendmentor">
   </a>
 </p>
-<br>
 
 <h2 align="center">What I'm interested in 👀 </h2>
 <p align="center">
