@@ -1,6 +1,6 @@
 <h1 align="center">Hello, there! 👋</h1>
 <p align="center">
-  Welcome to my GitHub profile! I am an aspiring front end web developer (maybe full stack eventually?) currently getting more comfortable building websites with CSS Grid through Frontend Mentor challenges. I'll be getting ready to learn Sass and JavaScript soon!
+  Welcome to my GitHub profile! I am an aspiring front end web developer (maybe full stack eventually?). I am currently learning JavaScript and getting practice from Frontend Mentor challenges. 
 </p>
 
 <h2 align="center">You can find my work here 💪</h2>
