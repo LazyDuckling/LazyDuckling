@@ -1,6 +1,6 @@
 <h1 align="center">Hello, there! 👋</h1>
 <p align="center">
-  Welcome to my GitHub profile! I am an aspiring front end web developer (maybe full stack eventually?). I am currently learning JavaScript, Regular Expressions and getting practice from Frontend Mentor challenges. I'm also taking the Google UX Design Certificate course!
+  Welcome to my GitHub profile! I am an aspiring front end web developer (maybe full stack eventually?). I am currently learning JavaScript, Regular Expressions and getting practice from Frontend Mentor challenges.
 </p>
 
 <h2 align="center">You can find my work here 💪</h2>
